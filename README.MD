@@ -36,8 +36,8 @@ main.exe
 
 Follow the on-screen instructions to navigate through the application.
 - **Step 1** Navigate to the file directory where the sources folder is located, you can do this by copying the file path of the sources and running this command in the terminal ```cd "[your file path]"```
-- **Step 2** you can list out the files present in the current directory by running the following command "dir" if a main.exe file is not present then create it by running the ```bash gcc main.c todolist.c -o main```
-- **Step 3** Once the main.exe file is created you can run it by running this command ```bash main.exe```
+- **Step 2** you can list out the files present in the current directory by running the following command "dir" if a main.exe file is not present then create it by running the ```gcc main.c todolist.c -o main```
+- **Step 3** Once the main.exe file is created you can run it by running this command ```main.exe```
 - **Step 4** You should now be prompted with a screen containing the options for the ToDo List <p align="left"> <img src="Screenshot-1.png" alt="To-Do List" width="400px"> </p>
 - **Step 5** For file creation enter 1. Enter the name for the file without any extensions(.md,.exe,.txt etc...) and press enter <p align="left"> <img src="Screenshot-2.png" alt="To-Do List" width="500px"> </p>. You would now have received an output like this 
 ```List of todo lists saved in 'todo_lists.txt'. ```
