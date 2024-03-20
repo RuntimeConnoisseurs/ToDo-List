@@ -55,4 +55,3 @@ int main() {
     return 0;
 }
 
-// gcc main.c todolist.c -o main
