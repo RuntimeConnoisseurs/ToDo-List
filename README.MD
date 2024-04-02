@@ -1,3 +1,5 @@
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+
 <h1 align="center">To-Do List Application</h1>
 
 <p align="center">
